@@ -1,0 +1,3 @@
+[submodule "artistic-heritage-regional-roads-code"]
+	path = artistic-heritage-regional-roads-code
+	url = git@github.com:MaximLippeveld/artistic-heritage-regional-roads-code.git
